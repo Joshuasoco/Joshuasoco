@@ -1,7 +1,7 @@
 # Hi there, I'm Joshua Co 👋
 
 ## About Me
-Full-stack developer passionate about building scalable solutions and tackling complex challenges. I believe in doing things the right way, not the easy way.
+Front-end developer dedicated to creating intuitive, responsive, and visually engaging user interfaces. I focus on building scalable, maintainable code while delivering seamless user experiences.
 
 ## Skills
 
