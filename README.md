@@ -42,6 +42,7 @@ Full-stack developer passionate about building scalable solutions and tackling c
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Zuit](https://img.shields.io/badge/Zuit-3DDC84?style=for-the-badge&logo=appveyor&logoColor=white)
 
 
 ## 🎯 Current Focus
