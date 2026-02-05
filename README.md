@@ -57,10 +57,3 @@ Full-stack developer passionate about building scalable solutions and tackling c
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joshuasoco&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
-
-<div align="center">
-  ⭐️ From <a href="https://github.com/Joshuasoco">Joshua Co</a>
-</div>
