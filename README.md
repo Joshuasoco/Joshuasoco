@@ -1,9 +1,9 @@
 # Hi there, I'm Joshua Co 👋
 
-## 🚀 About Me
+## About Me
 Full-stack developer passionate about building scalable solutions and tackling complex challenges. I believe in doing things the right way, not the easy way.
 
-## 💼 Skills
+## Skills
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
