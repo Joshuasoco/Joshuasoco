@@ -42,7 +42,8 @@ Front-end developer dedicated to creating intuitive, responsive, and visually en
 ### Development Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Zuit](https://img.shields.io/badge/Zuit-3DDC84?style=for-the-badge&logo=appveyor&logoColor=white)
+![Zuitt]([https://img.shields.io/badge/Zuit-3DDC84?style=for-the-badge&logo=appveyor&logoColor=white](https://img.shields.io/badge/zuitt-3DDC84?style=for-the-badge&logo=appveyor&logoColor=white
+))
 
 
 ## 🎯 Current Focus
